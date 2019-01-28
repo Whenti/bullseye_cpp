@@ -17,4 +17,4 @@ The project was developed under Visual Studio, so the project file was included.
 
 ## License
 
-This project licensed under the GPL3 License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project licensed under the GPL3 License - see the [LICENSE](LICENSE) file for details.
